@@ -1,4 +1,6 @@
-Welcome to your new TanStack Start app! 
+# Cookie Consent
+
+A simple cookie consent popup built for the [roadmap.sh Cookie Consent project](https://roadmap.sh/projects/cookie-consent).
 
 # Getting Started
 
